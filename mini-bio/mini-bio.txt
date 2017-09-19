@@ -1,0 +1,56 @@
+/==================\
+| Student Mini-Bio |
+\==================/
+
+Submission Instructions:
+=======================
+  1)	Create a directory in your class account called mini-bio and save this text file as mini-bio.txt
+  2)	Answer the questions below by editing this text document and then save it
+  3)	Find a recognizable photo of yourself, in JPEG and no larger than 600x600, and save it as me.jpg
+      - You can get a friend with a digital camera to take a nice "head shot" of you
+      - You can also take a photo using the camera on the lab computers
+  4)	From within the mini-bio directory, type "submit mini-bio"
+
+
+
+Name:		Hyun Ho Lee
+Login:		cs61c-aaq
+E-mail:		dlgusgh@berkeley.edu
+Section:		101C
+
+
+Mini-Biography:
+==============
+Classes can sometimes feel so impersonal!  We created this mini-bio so we may get to know each other a little better. 
+This will be kept confidential amongst the staff, but you don't have to fill in anything you don't wish to.
+
+** The staff will answer them too, so how about you? **
+
+
+--> Where did you grow up? What was your academic path?
+(e.g. Did you live in the same town all your life or did you move around; and if so, where? Did you go to community college or another school before this one?)
+
+I was born in Seoul, South Korea; however, when I was 3, due to my parents work, I immigrated to Brazil. For almost 19 years, my family and I stayed in Sao Paulo where I studied in an international school. From there on, I graduated from highschool and ended up here at Berkeley. Looking back, it was a wonder how I was able to attend the same school for 13 years, starting since kindergarten until graduation, but I think it played a cruel role in developing my interests toward engineering. Not only did the school have many extracurricular activities that I could indulge in, it also allowed the liberty for the student to pursue their interests to a certain degree by offering a education similar to college where the students are able to select their own courses from a list. Obviously, I leaned towards mathematics and physics, realizing the my interest towards history and literature was superficial. Through that I had decided to come here to Berkeley and look forward to being a part of the EECS department.
+
+--> How much programming have you done (and what languages)?
+
+Prior to coming to Berkeley, I had rare any to almost no experience with programming; however, coming here, I took CS61A and CS61B, learning both python and Java.
+
+--> What are your hobbies?
+
+I could say that my hobbies range from sports, such as basketball and soccer, to playing the saxophone and the violin. I would say that I don't have that many hobbies other than the ones I had listed, but I do indulge heavily in them. I also do like going out and hanging out with my friends and relaxing. If I had to state one more thing I really like, it would be that I enjoy being in the water. Usually I would relax with a few friends in a jacuzzi and relieve the stress that I had built up until then. 
+
+--> What are some of your talents and skills?
+
+Obviously, from the previous question, I enjoy playing basketball and soccer, which would say that I am, to a certain point, athletic. Also, I play multiple instruments such as the saxophone, the clarinet, the violin, the piano, and the guitar. Other than these, I speak 3 languages, which are Portuguese, English, and Korean, excluding the fact that I do understand a lot of Spanish for how it is so similar to Portuguese (Yes, Brazil speak Portuguese and not Brazilian).
+
+--> Have you done anything remarkable? Has anything really memorable happened to you?
+(e.g. travel, meeting famous people, 15 min of fame, inventions, overcoming adversity, etc.)
+
+The most interesting thing that I had done in the past 2 years was an Euro trip that I went on for 2 weeks starting from Paris and ending in Venice. Following this, I enlisted in the Korean Army due to mandatory military service for the country. Due to this, I took a 2 year leave from college after my first year and now I am finally returning.
+
+--> What commitments will be consuming your cycles this term?
+(e.g. classes, jobs, family, commutes, volunteering, sports, student groups, etc.)
+
+Most of my commitments would be my classes. Getting back from the military, I still have to readjust to the college experience and launch into my classes again. Other than that, I frequently go down to RSF to play basketball and would meet a few friends during the weekend. Other than that, I hope to have a great year here at Berkeley.
+
